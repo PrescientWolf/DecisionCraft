@@ -1,4 +1,3 @@
-# DecisionCraft
-Helping decision-makers better understand the machinery of choice. 
-
+# Threat Intel Portfolio and Systemigram
+Understanding cyber intelligence in an enterprise. 
 ![Graph 2](https://github.com/PrescientWolf/Intel-Content/blob/master/TI-systemigram.png)
